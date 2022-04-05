@@ -7,7 +7,7 @@ Sistem penggajian online berbasis web yang dibangun menggunakan laravel framewor
 3. composer, download di https://getcomposer.org/Composer-Setup.exe
 
 # cara instalasi di laptop
-1. download project (buka https://github.com/richardo.n/mri-sallary lalu klik "clone or download", kemudian "download zip")
+1. download project (buka https://github.com/noyarichardo/mri-esallary lalu klik "clone or download", kemudian "download zip")
 2. extract project E-Salary.zip
 3. buka folder hasil extract, buat database baru bernama e-salary, lalu import file DB_E-salary.sql ke database baru di mysql-server (phpmyadmin)
 4. copy file .env.example, paste di folder yang sama dan beri nama .env
