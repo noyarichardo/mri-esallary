@@ -2,7 +2,7 @@
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="UTF-8"/>
-        <title>DANGO System</title>
+        <title>MRI Sallary System</title>
         <meta name="description" content="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups" />
         <meta name="keywords" content="Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups" />
         <meta name="generator" content="DANGO System" />
